@@ -1,5 +1,5 @@
-id,name,number - prefix,number - number,number - bankCode,avatarData - key - type,avatarData - key - id,avatarData - updatedTs,avatarData - data,type,iban,currencyCode,balance,availableBalance,openingDate,subject - id,subject - name,subject - fullName,subject - externalId,subject - legalEntity
-1,Bežný účet,,1013022019,3030,PARTY,,,,CURRENT,CZ7030300000001013022019,CZK,"25 000,00","20 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
-2,Bežný účet,,1013022043,3030,PARTY,,,,CURRENT,CZ7030300000001013022043,CZK,"30 000,00","26 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
-3,Spořicí účet,,1013022035,3030,PARTY,,,,SAVING,CZ7030300000001013022035,CZK,"100 000,00","100 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
-4,Spořicí účet,,1013022078,3030,PARTY,,,,SAVING,CZ7030300000001013022078,CZK,"200 000,00","200 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
+id,name,partyId,number - prefix,number - number,number - bankCode,avatarData - key - type,avatarData - key - id,avatarData - updatedTs,avatarData - data,type,iban,currencyCode,balance,availableBalance,openingDate,subject - id,subject - name,subject - fullName,subject - externalId,subject - legalEntity
+1,Bežný účet,,,1013022019,3030,PARTY,,,,CURRENT,CZ7030300000001013022019,CZK,"25 000,00","20 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
+2,Bežný účet,,,1013022043,3030,PARTY,,,,CURRENT,CZ7030300000001013022043,CZK,"30 000,00","26 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
+3,Spořicí účet,,,1013022035,3030,PARTY,,,,SAVING,CZ7030300000001013022035,CZK,"100 000,00","100 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
+4,Spořicí účet,,,1013022078,3030,PARTY,,,,SAVING,CZ7030300000001013022078,CZK,"200 000,00","200 000,00",01/01/2024,1,Tomas Vesely,Tomas Vesely,,FO
